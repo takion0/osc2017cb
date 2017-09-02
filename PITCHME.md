@@ -5,7 +5,7 @@
 
 ## はじめに
 
-[https://twitter.com/masamasa9841/status/903784303271841792:embed]
+![キモいツイート](images/OTKIMOI.png)
 
 
 ---
