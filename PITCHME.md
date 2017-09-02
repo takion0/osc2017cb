@@ -21,3 +21,4 @@
 
 * PCスタンド
 * HHKB BT
+* Magic Mouse2
