@@ -36,3 +36,8 @@
 * PCスタンド
 * HHKB BT
 * Magic Mouse2
+* iPad Pro
+
+![りんごの画像](images/RINGO.png)
+
+---
