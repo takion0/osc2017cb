@@ -3,4 +3,4 @@
 これはOSC2017Chibaで滝 雄太郎が「快適なPC環境を目指して」として発表したものです。
 
 * [スライド](https://gitpitch.com/takion0/osc2017cb)
-* [本文](osc2017cb/PITCHME.md)
+* [本文](PITCHME.md)
